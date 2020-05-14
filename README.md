@@ -1,7 +1,7 @@
 # Classifying Fashion-MNIST images using Deep Neural Networks
 
 ## Setup
-git clone 
+git clone https://github.com/abhimanshumishra/ml-project.git
 Go to the release-data folder and uncompress the .feats.npy.zip files and delete the zip files after that.
 conda create --name ml-project python=3.7
 conda activate ml-project
